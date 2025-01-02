@@ -32,3 +32,31 @@ git add .
 git commit -m "devops structured added"
 git pull
 git push
+cd
+ls
+git status
+git add .
+git branch 
+ls
+git status 
+git add .
+git status
+git commit -m "new file added"
+git status
+git branch
+touch file1
+vi file1
+git checkout main
+git stash
+git checkout main
+git checkout feature
+ls
+cat file1
+git pop
+git nop
+git pope
+git stash pop
+git add .
+git commit -m "file1 added"
+git pull
+git push
