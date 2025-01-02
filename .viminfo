@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1735800545,,"wq"
+|2,0,1735800647,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -23,32 +23,75 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	>>>>>>> 0d1bb3ca2f8374bfa1f5c8375f49a4e59e845f96
+|3,1,1,1,1,0,1735800638,">>>>>>> 0d1bb3ca2f8374bfa1f5c8375f49a4e59e845f96"
+"2	LINE	0
+	=======
+|3,0,2,1,1,0,1735800636,"======="
+"3	LINE	0
+	<<<<<<< HEAD
+|3,0,3,1,1,0,1735800633,"<<<<<<< HEAD"
 
 # File marks:
-'0  2  12  ~/file1
-|4,48,2,12,1735800545,"~/file1"
-'1  1  0  ~/feature
-|4,49,1,0,1735800500,"~/feature"
-'2  1  15  ~/file1
-|4,50,1,15,1735798624,"~/file1"
-'3  1  15  ~/file1
-|4,51,1,15,1735798624,"~/file1"
-'4  1  0  ~/.git/COMMIT_EDITMSG
-|4,52,1,0,1735796837,"~/.git/COMMIT_EDITMSG"
+'0  3  5  ~/file1
+|4,48,3,5,1735800647,"~/file1"
+'1  2  12  ~/file1
+|4,49,2,12,1735800545,"~/file1"
+'2  2  12  ~/file1
+|4,50,2,12,1735800545,"~/file1"
+'3  1  0  ~/feature
+|4,51,1,0,1735800500,"~/feature"
+'4  1  15  ~/file1
+|4,52,1,15,1735798624,"~/file1"
+'5  1  15  ~/file1
+|4,53,1,15,1735798624,"~/file1"
+'6  1  15  ~/file1
+|4,54,1,15,1735798624,"~/file1"
+'7  1  15  ~/file1
+|4,55,1,15,1735798624,"~/file1"
+'8  1  0  ~/.git/COMMIT_EDITMSG
+|4,56,1,0,1735796837,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  3  5  ~/file1
+|4,39,3,5,1735800647,"~/file1"
+-'  2  11  ~/file1
+|4,39,2,11,1735800622,"~/file1"
 -'  2  12  ~/file1
 |4,39,2,12,1735800545,"~/file1"
+-'  1  15  ~/file1
+|4,39,1,15,1735800528,"~/file1"
 -'  1  15  ~/file1
 |4,39,1,15,1735800528,"~/file1"
 -'  1  0  ~/feature
 |4,39,1,0,1735800500,"~/feature"
 -'  1  0  ~/feature
 |4,39,1,0,1735800500,"~/feature"
+-'  1  0  ~/feature
+|4,39,1,0,1735800500,"~/feature"
+-'  1  0  ~/feature
+|4,39,1,0,1735800500,"~/feature"
 -'  1  15  ~/file1
 |4,39,1,15,1735798624,"~/file1"
 -'  1  15  ~/file1
 |4,39,1,15,1735798624,"~/file1"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1735796837,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1735796837,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1735796837,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1735796837,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1735796837,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1735796837,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1735796837,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1735796837,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1735796837,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -69,13 +112,13 @@
 # History of marks within files (newest to oldest):
 
 > ~/file1
-	*	1735800542	0
-	"	2	12
-	^	2	13
-	.	2	12
+	*	1735800642	0
+	"	3	5
+	.	4	0
 	+	1	15
+	+	2	0
 	+	3	0
-	+	2	12
+	+	4	0
 
 > ~/feature
 	*	1735800497	0
